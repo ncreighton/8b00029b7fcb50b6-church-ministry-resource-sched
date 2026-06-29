@@ -1,0 +1,2 @@
+# 8b00029b7fcb50b6-church-ministry-resource-sched
+Professional church ministry n8n automation workflow — without the professional price tag.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Church Ministry Resource Scheduling And Booking — fully configured an
